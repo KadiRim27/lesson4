@@ -9,9 +9,10 @@
 }
 .menu {
     font-family:"Montserrat";
-    font-family: 700;
+    font-weight: 700;
     font-style:italic; 
 }
+
 header{
   text-align: center;
   text-decoration: overline;
@@ -57,9 +58,7 @@ a{
   text-decoration: underline;
   text-transform: lowercase;
 }
-[class*"mark"]{
-  color:brown;
-}
+
 .title {
   font-size: 35px;
   color: red;
